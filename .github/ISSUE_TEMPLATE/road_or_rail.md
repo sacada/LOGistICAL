@@ -13,7 +13,7 @@ about: "Use this template to report a broken road or railway connection in LOGis
 
 ## Broken Road or Rail
 
-> Describe the location and include the screenshot, here. 
+> Describe the location and include the screenshot, here. If possible, please also provide a version number, which can be found during start up, or at the bottom of the Settings window.
 
 
 
